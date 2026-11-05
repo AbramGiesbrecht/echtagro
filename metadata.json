@@ -1,0 +1,6 @@
+{
+  "name": "echtagro",
+  "description": "Aplicación de gestión agrícola para control de lotes, campañas, finanzas y labores de campo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
