@@ -11,6 +11,7 @@ export interface Propietario {
 
 export interface Lote {
   id: string;
+  codigo?: string;
   nombre: string;
   superficieTotalHa: number;
   propietarios: Propietario[];
